@@ -1,5 +1,5 @@
 ## EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
-## SIMULATION OF SCHMITT TRIGGER
+## Simulation of Digital to Analog Converters.
 
 ## AIM:
 To Design and simulate the digital to analog converter (DAC) circuit using LT Spice
