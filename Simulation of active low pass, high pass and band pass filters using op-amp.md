@@ -38,7 +38,7 @@ LT-Spice
 
 
 
-
+## OUTPUT GRAPH:
 
 ### LOWPASS FILTER:
 
