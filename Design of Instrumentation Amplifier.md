@@ -2,14 +2,12 @@
 #  INSTRUMENTATION AMPLIFIER
 
 ## AIM: 
-
 To construct and test the CMRR of an instrumentation amplifier using op-amp  
 IC741.
  
 ## APPARATUS REQUIRED
 
 <img width="634" height="166" alt="image" src="https://github.com/user-attachments/assets/e7f51b72-b143-4728-9c65-6b9d447201cf" />
-
 
 ## THEORY
 ## INSTRUMENTATION AMPLIFIER
@@ -29,8 +27,12 @@ performance.
                                                          
 Vo = RF/R1[1+ 2R’/R][V2-V1] 
 ## CIRCUIT DIAGRAM: 
+<img width="1332" height="846" alt="image" src="https://github.com/user-attachments/assets/479c8bc5-8f12-40c2-90ba-a717b0755f57" />
+
 
 ## MODEL GRAPH:
+<img width="823" height="491" alt="image" src="https://github.com/user-attachments/assets/75fd2bb0-ae95-4b11-9cdf-80b786cace19" />
+
 
 ## PROCEDURE:  
 1. Select the entire resistor with the same value. Let R be the gain varying resistor with 
@@ -47,10 +49,13 @@ input value of V1 and V2.
 waveforms are plotted in a graph sheet.
 
 ## TABULATION:
+<img width="1332" height="798" alt="image" src="https://github.com/user-attachments/assets/57281e28-934b-4024-8d8e-87626a3518a4" />
 
 ## CALCULATIONS:
+<img width="823" height="594" alt="image" src="https://github.com/user-attachments/assets/b7ccaa54-64b3-4868-9c55-a8e5f7cf302b" />
 
 ## GRAPH:
+![WhatsApp Image 2025-11-29 at 09 43 53_bc0512f5](https://github.com/user-attachments/assets/36a1a473-f340-4ea6-81d3-be216f7be1c0)
 
  ## RESULTS:
  Thus an instrumentation amplifier was constructed and  tested using op
