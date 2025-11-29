@@ -99,7 +99,8 @@ Given: fL = 400Hz  = 1/ (2πR2C2)
 ## HIGH-PASS
 <img width="779" height="544" alt="image" src="https://github.com/user-attachments/assets/c7c4caec-2260-422c-8f8f-24b137cf97ac" />
 
-## BAND-PASS<img width="730" height="502" alt="image" src="https://github.com/user-attachments/assets/cb8251e1-2881-4ff4-8ec3-281f195a23f9" />
+## BAND-PASS
+<img width="730" height="502" alt="image" src="https://github.com/user-attachments/assets/cb8251e1-2881-4ff4-8ec3-281f195a23f9" />
 
 
 ## CALCULATIONS:
