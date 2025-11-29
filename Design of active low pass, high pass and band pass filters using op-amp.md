@@ -34,15 +34,26 @@ its quality factor Q <10.  If Q>10, then we call the filter a narrow band pass f
 pass filter can be formed by simply cascading high-pass and low-pass sections.  The order of 
 band pass filter depends on the order of high pass and low pass sections.
 
-## CIRCUIT DIAGRAM: 
+## CIRCUIT DIAGRAM:
 ## LOW_PASS
+<img width="748" height="342" alt="image" src="https://github.com/user-attachments/assets/c753bc3e-60be-4340-839b-10099d99f4b8" />
+
 ## HIGH-PASS
+<img width="779" height="328" alt="image" src="https://github.com/user-attachments/assets/376b34e2-c519-4aa6-8328-09de26fd1abc" />
+
 ## BAND-PASS
+![BF78419B-9FDF-475C-8560-6DF4E3FAE28F_4_5005_c](https://github.com/user-attachments/assets/a4d3cee5-1467-4e28-a7da-68280c2f0528)
 
 ## MODEL GRAPH:
+
 ## LOW_PASS
+<img width="748" height="365" alt="image" src="https://github.com/user-attachments/assets/fc49ba9a-2b43-4108-ba52-ac19cdc2f19b" />
+
 ## HIGH-PASS
+<img width="779" height="318" alt="image" src="https://github.com/user-attachments/assets/7221d20b-3c48-4eca-9232-047f0fc8a295" />
+
 ## BAND-PASS
+<img width="730" height="317" alt="image" src="https://github.com/user-attachments/assets/f0d55cd6-537d-46d2-8e6d-516001e95e58" />
 
 ## PROCEDURE - (LPF & HPF): 
 1. Connect the circuit as shown in the circuit diagram. 
@@ -86,7 +97,9 @@ Given: fL = 400Hz  = 1/ (2πR2C2)
 ## TABULATION:
 ## LOW_PASS
 ## HIGH-PASS
+![PHOTO-2025-11-29-11-38-10](https://github.com/user-attachments/assets/0ef42049-8229-4c22-b986-1df54f694bc3)
 ## BAND-PASS
+![PHOTO-2025-11-29-11-41-48](https://github.com/user-attachments/assets/e17c66ed-f718-4c16-bc69-effe940ea0a3)
 ## CALCULATIONS:
 ## LOW_PASS
 ## HIGH-PASS
