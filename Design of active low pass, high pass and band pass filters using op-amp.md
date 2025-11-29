@@ -47,8 +47,10 @@ band pass filter depends on the order of high pass and low pass sections.
 ## MODEL GRAPH:
 ## LOW_PASS
 <img width="779" height="318" alt="image" src="https://github.com/user-attachments/assets/94bfe11b-c3c5-42be-ad45-2191c82145d1" />
+
 ## HIGH-PASS
 <img width="748" height="365" alt="image" src="https://github.com/user-attachments/assets/452e9e47-3e55-44f0-b24c-a6d8b7dbdf1c" />
+
 ## BAND-PASS
 <img width="730" height="317" alt="image" src="https://github.com/user-attachments/assets/febe3aac-7ce9-41e6-aafb-4b88ab2fa040" />
 
@@ -102,14 +104,6 @@ Given: fL = 400Hz  = 1/ (2πR2C2)
 ## BAND-PASS
 <img width="730" height="502" alt="image" src="https://github.com/user-attachments/assets/cb8251e1-2881-4ff4-8ec3-281f195a23f9" />
 
-
-## CALCULATIONS:
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
 ## GRAPH:
 ## LOW_PASS
 <img width="945" height="1280" alt="image" src="https://github.com/user-attachments/assets/20c905b3-69f1-4bed-ad93-7b25efa48b92" />
